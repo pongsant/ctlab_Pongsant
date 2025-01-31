@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ada6d161e02dbcc4aa6af0b005163713
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294953
+  packageName: Screen Space Reflections For URP
+  packageVersion: 1.1
+  assetPath: Assets/Screen Space Reflections For URP/Shaders/ColorPyramidShader.shader
+  uploadId: 696783

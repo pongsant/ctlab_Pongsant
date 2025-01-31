@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf86496513b9da647afe9ae011f31aef
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294953
+  packageName: Screen Space Reflections For URP
+  packageVersion: 1.1
+  assetPath: Assets/Screen Space Reflections For URP/Docs/SSR_Documentation.txt
+  uploadId: 696783

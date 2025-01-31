@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56713d4bce6851147bfd19d15ef547f7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294953
+  packageName: Screen Space Reflections For URP
+  packageVersion: 1.1
+  assetPath: Assets/Screen Space Reflections For URP/SampleScenes/New Scene.unity
+  uploadId: 696783

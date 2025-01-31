@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc1b69fd74f22a844aab43e5af13113f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294953
+  packageName: Screen Space Reflections For URP
+  packageVersion: 1.1
+  assetPath: Assets/Screen Space Reflections For URP/Scripts/RenderFeatures/SSRRenderFeature.cs
+  uploadId: 696783

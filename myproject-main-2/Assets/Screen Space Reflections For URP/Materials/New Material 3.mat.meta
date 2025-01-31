@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6238bf580a8f7c841a1b7a47799bf4d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294953
+  packageName: Screen Space Reflections For URP
+  packageVersion: 1.1
+  assetPath: Assets/Screen Space Reflections For URP/Materials/New Material 3.mat
+  uploadId: 696783

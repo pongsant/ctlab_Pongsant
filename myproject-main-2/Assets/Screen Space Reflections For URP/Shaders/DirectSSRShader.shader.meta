@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 372eb8432f081d34d9d84462ad9c2d4a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294953
+  packageName: Screen Space Reflections For URP
+  packageVersion: 1.1
+  assetPath: Assets/Screen Space Reflections For URP/Shaders/DirectSSRShader.shader
+  uploadId: 696783

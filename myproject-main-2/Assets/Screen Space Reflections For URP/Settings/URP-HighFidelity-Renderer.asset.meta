@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52b01520a387b5244b3cefa8d676df8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294953
+  packageName: Screen Space Reflections For URP
+  packageVersion: 1.1
+  assetPath: Assets/Screen Space Reflections For URP/Settings/URP-HighFidelity-Renderer.asset
+  uploadId: 696783

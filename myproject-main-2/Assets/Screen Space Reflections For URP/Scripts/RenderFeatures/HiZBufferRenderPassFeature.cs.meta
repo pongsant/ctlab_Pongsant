@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 53c7aec284a29344795a458c68f958d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294953
+  packageName: Screen Space Reflections For URP
+  packageVersion: 1.1
+  assetPath: Assets/Screen Space Reflections For URP/Scripts/RenderFeatures/HiZBufferRenderPassFeature.cs
+  uploadId: 696783

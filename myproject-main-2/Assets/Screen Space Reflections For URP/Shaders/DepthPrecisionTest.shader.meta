@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2eee9acd525e4746837999d6327245a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294953
+  packageName: Screen Space Reflections For URP
+  packageVersion: 1.1
+  assetPath: Assets/Screen Space Reflections For URP/Shaders/DepthPrecisionTest.shader
+  uploadId: 696783
